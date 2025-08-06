@@ -1,5 +1,5 @@
 import { useState } from "react";
-import liverBird from "./../public/liverbird.png";
+import liverBird from "./assets/liverbird.png";
 import thisIsAnfield from "./assets/thisIsAnfield.png";
 import "./App.css";
 
